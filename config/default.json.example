@@ -45,6 +45,14 @@
       "pass": "Do-Not-Use-This-Password-Youll-Be-Hacked-For-all-Teh-Moneys!"
     }
   }, 
+  "npc": {
+    "paytxfee": .01,
+    "config": {
+      "port": 7167,
+      "user": "username",
+      "pass": "Do-Not-Use-This-Password-Youll-Be-Hacked-For-all-Teh-Moneys!"
+    }
+  }, 
   "ufo": {
     "paytxfee": .01,
     "config": {
